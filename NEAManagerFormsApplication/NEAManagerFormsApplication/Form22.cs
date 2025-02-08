@@ -116,6 +116,7 @@ namespace NEAManagerFormsApplication
                         while (reader.Read())
                         {
                             gliderREGList.Add(reader["GliderREG"].ToString());
+
                         }
                     }
                 }

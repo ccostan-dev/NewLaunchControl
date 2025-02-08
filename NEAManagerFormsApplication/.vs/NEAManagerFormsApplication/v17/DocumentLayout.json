@@ -1,177 +1,177 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|c:\\users\\christian costantino\\source\\repos\\newlaunchcontrol\\neamanagerformsapplication\\neamanagerformsapplication\\form22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|c:\\users\\christian costantino\\source\\repos\\neamanagerformsapplication\\neamanagerformsapplication\\form21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form24.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\settings1.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\settings1.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\settings1.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\neamanagerformsapplication\\form26.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\neamanagerformsapplication\\form26.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC8CBE1-25E1-431B-ACE2-63385046EA9C}|NEAManagerFormsApplication\\NEAManagerFormsApplication.csproj|solutionrelative:neamanagerformsapplication\\form26.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -182,7 +182,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 62,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -194,22 +194,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form17.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form17.cs",
-              "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form17.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form17.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form17.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T23:03:00.051Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Form16.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form16.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form16.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form16.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form16.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form16.cs",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form16.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -219,10 +208,10 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Form15.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form15.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form15.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form15.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form15.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form15.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form15.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T23:03:02.807Z"
             },
@@ -230,9 +219,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Form14.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form14.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form14.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form14.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form14.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form14.cs",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form14.cs",
               "ViewState": "AgIAAEwAAAAAAAAAAAAvwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -242,34 +231,32 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Form20.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form20.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form20.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form20.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form20.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form20.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form20.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T13:18:10.104Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-30T13:18:10.104Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form20.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form20.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form20.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form20.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form20.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form20.cs",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form20.cs",
               "ViewState": "AgIAAHsAAAAAAAAAAAAuwJUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T14:56:38.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T14:56:38.747Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form22.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form22.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form22.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form22.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form22.cs [Design]",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form22.cs [Design]",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form22.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T23:47:55.323Z",
@@ -279,47 +266,56 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Form21.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form21.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form21.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form21.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form21.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form21.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form21.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T23:27:28.46Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form21.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form21.cs",
-              "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form21.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form21.cs",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form21.cs",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAowLcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:17:57.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T23:27:28.46Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form22.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form22.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form22.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form22.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form22.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form22.cs",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form22.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAawJEAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAawHYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T22:56:19.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form17.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form17.cs",
+              "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form17.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form17.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form17.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:03:00.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form21.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form21.cs",
+              "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form21.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form21.cs",
+              "RelativeToolTip": "NEAManagerFormsApplication\\Form21.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAowLcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:17:57.481Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Form17.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form17.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form17.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form17.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form17.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form17.cs",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form17.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAADgv2YAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -329,10 +325,10 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Form19.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form19.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form19.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form19.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form19.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form19.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form19.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T23:47:53.426Z"
             },
@@ -340,10 +336,10 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Form23.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form23.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form23.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form23.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form23.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form23.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form23.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T23:04:54.463Z"
             },
@@ -351,9 +347,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Form18.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form18.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form18.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form18.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form18.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form18.cs",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form18.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAowBsAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -363,10 +359,10 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Form18.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form18.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form18.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form18.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form18.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form18.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form18.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T14:52:13.994Z"
             },
@@ -374,10 +370,10 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Form14.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form14.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form14.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form14.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form14.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form14.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form14.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T14:51:45.524Z"
             },
@@ -385,9 +381,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Form13.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form13.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form13.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form13.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form13.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form13.cs",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form13.cs",
               "ViewState": "AgIAALMAAAAAAAAAAAAnwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -397,9 +393,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Form12.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form12.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form12.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form12.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form12.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form12.cs",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form12.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -409,10 +405,10 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "Form12.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form12.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form12.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form12.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form12.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form12.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form12.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T14:51:49.069Z"
             },
@@ -420,10 +416,10 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "Form11.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form11.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form11.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form11.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form11.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form11.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form11.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T23:02:47.824Z"
             },
@@ -431,9 +427,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Form10.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form10.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form10.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form10.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form10.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form10.cs",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form10.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -443,10 +439,10 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "Form10.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form10.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form10.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form10.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form10.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form10.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form10.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T23:02:36.154Z"
             },
@@ -454,9 +450,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Form9.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form9.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form9.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form9.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form9.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form9.cs",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form9.cs",
               "ViewState": "AgIAAKYAAAAAAAAAAAD4vxcAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -466,10 +462,10 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "Form9.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form9.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form9.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form9.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form9.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form9.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form9.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T23:02:19.988Z"
             },
@@ -477,10 +473,10 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Form16.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form16.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form16.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form16.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form16.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form16.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form16.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T23:03:01.696Z"
             },
@@ -488,9 +484,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "Form6.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form6.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form6.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form6.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form6.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form6.cs",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form6.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAIwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -500,9 +496,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "Form5.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form5.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form5.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form5.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form5.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form5.cs",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form5.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAASwBYAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -512,10 +508,10 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "Form5.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form5.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form5.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form5.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form5.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form5.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form5.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T22:26:54.953Z"
             },
@@ -523,10 +519,10 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Form13.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form13.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form13.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form13.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form13.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form13.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form13.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T14:51:51.042Z"
             },
@@ -534,9 +530,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "Form4.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form4.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form4.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form4.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form4.cs",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -546,10 +542,10 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form3.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form3.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form3.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form3.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T23:01:16.43Z"
             },
@@ -557,10 +553,10 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form2.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form2.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form2.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T11:20:03.265Z"
             },
@@ -568,9 +564,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form1.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form1.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form1.cs",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form1.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -580,10 +576,10 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form1.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form1.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form1.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T23:00:41.241Z"
             },
@@ -591,10 +587,10 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "Form6.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form6.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form6.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form6.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form6.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form6.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form6.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T22:59:37.542Z"
             },
@@ -602,10 +598,10 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "Form7.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form7.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form7.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form7.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form7.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form7.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form7.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T14:52:01.342Z"
             },
@@ -613,10 +609,10 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "Form8.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form8.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form8.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form8.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form8.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form8.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form8.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T14:42:56.737Z"
             },
@@ -624,9 +620,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "Form8.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form8.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form8.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form8.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form8.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form8.cs",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form8.cs",
               "ViewState": "AgIAAEwAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -636,9 +632,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form3.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form3.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form3.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form3.cs",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form3.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAA9wBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -648,10 +644,10 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "Form4.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form4.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form4.cs",
               "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form4.cs [Design]",
-              "RelativeToolTip": "NEAManagerFormsApplication\\Form4.cs [Design]",
+              "RelativeToolTip": "..\\..\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T14:56:46.772Z"
             },
@@ -659,9 +655,9 @@
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "Settings1.settings",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Settings1.settings",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Settings1.settings",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Settings1.settings",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Settings1.settings",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Settings1.settings",
               "RelativeToolTip": "NEAManagerFormsApplication\\Settings1.settings",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
               "WhenOpened": "2025-02-06T22:52:59.765Z"
@@ -670,9 +666,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "Form24.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form24.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form24.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form24.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form24.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form24.cs",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form24.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwDAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -682,9 +678,9 @@
               "$type": "Document",
               "DocumentIndex": 42,
               "Title": "Form26.cs",
-              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form26.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form26.cs",
               "RelativeDocumentMoniker": "NEAManagerFormsApplication\\Form26.cs",
-              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form26.cs",
+              "ToolTip": "C:\\Users\\Christian Costantino\\source\\repos\\NewLaunchControl\\NEAManagerFormsApplication\\NEAManagerFormsApplication\\Form26.cs",
               "RelativeToolTip": "NEAManagerFormsApplication\\Form26.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAEwBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
